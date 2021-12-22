@@ -4,7 +4,7 @@ I'm Andrew - I spend a lot of time doing data science-y, quantum computer-y, AI-
 
 - 🔭 I’m currently a data scientist at the tech consultancy Waterstons. Here, I am helping build their data science team. Its a fun, varied role, with lots of data science problems to solve, and lots of business development-y stuff to do!
 - 👯 I’m looking to collaborate on anything, really? Fun tech projects, giving talks, the list goes on!
-- 📫 How to reach me: you can find me on twitter at [@andrewblance](https://twitter.com/andrewblance)
+- 📫 How to reach me: you can find me on twitter at [@andrewblance](https://twitter.com/andrewblance), or my more long-form ramblings here on [Medium](https://medium.com/@andrewblance) 
 - 😄 Pronouns: he/him
 
 During my PhD I got the chance to do a lot of ✨ exciting ✨ research on machine learning and quantum computing methods in particle physics. My papers cover a few topics, including:
