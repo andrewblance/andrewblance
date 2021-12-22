@@ -2,6 +2,11 @@
 
 [@andrewblance](https://twitter.com/andrewblance)
 
+- [Using autoencoders to do anomaly detection!](https://arxiv.org/abs/1905.10384)
+- [How can you use quantum computers to build a machine learning classification model](https://arxiv.org/abs/2010.07335)
+- [Using a photonic quantum computer to perform unsupervised anomaly detection](https://arxiv.org/abs/2103.03897)
+- [Optimising functions using a quantum annealer](https://arxiv.org/abs/2105.13945)
+
 <!--
 **andrewblance/andrewblance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
